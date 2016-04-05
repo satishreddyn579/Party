@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Party</string>
+    <string name="action_settings">About us</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="mname">Name</string>
+    <string name="mpassword">Password</string>
+    <string name="mlogin">Login</string>
+    <string name="msignin">Signin</string>
+    <string name="title_activity_signin">Signin</string>
+    <string name="msemail">E-mail</string>
+    <string name="mspassword">Password</string>
+    <string name="mphone">Phone no.</string>
+    <string name="msignup">Signup</string>
+    <string name="title_activity_update">Update</string>
+
+
+</resources>
